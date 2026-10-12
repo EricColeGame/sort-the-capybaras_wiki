@@ -8,7 +8,13 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "features": "Features",
+    "community": "Community",
+    "controls": "Controls"
   },
   "home": {
     "meta": {
@@ -460,7 +466,30 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Sort The Capybaras Guides",
+    "overviewDescription": "Step-by-step Sort The Capybaras guides covering how to play, beginner tips, first look impressions, and full walkthroughs for the cozy sorting puzzle."
+  },
+  "mechanics": {
+    "overviewTitle": "Sort The Capybaras Gameplay Mechanics",
+    "overviewDescription": "Understand the core Sort The Capybaras mechanics, from sorting rules and level layouts to costumes, the in-game store, and daily challenges."
+  },
+  "progression": {
+    "overviewTitle": "Sort The Capybaras Progression",
+    "overviewDescription": "Follow your Sort The Capybaras progression from the first small store tiers to the 4,800 capybara finale, with milestone goals for each stage."
+  },
+  "features": {
+    "overviewTitle": "Sort The Capybaras Features",
+    "overviewDescription": "Everything about Sort The Capybaras features, including the release date, Steam page, demo access, full game content, and soundtrack details."
+  },
+  "community": {
+    "overviewTitle": "Sort The Capybaras Community",
+    "overviewDescription": "Join the Sort The Capybaras community with Reddit and Discord discussion, player reviews, and a look at why this cozy, cute puzzle wins people over."
+  },
+  "controls": {
+    "overviewTitle": "Sort The Capybaras Controls",
+    "overviewDescription": "A complete Sort The Capybaras controls reference covering keyboard controls, mouse input, and controller support so you can sort comfortably on PC."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -491,10 +520,10 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official X (Twitter)",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "mechanicsGuides": "Mechanics Guides",
+    "progressionGuides": "Progression Guides",
+    "featuresGuides": "Feature Guides"
   }
 }

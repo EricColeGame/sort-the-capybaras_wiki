@@ -1,0 +1,125 @@
+export const metadata = {
+  title: "Sort the Capybaras Controller Support: Setup, Mapping, and Fixes",
+  description: "Does Sort the Capybaras controller support work on PC, mobile, and Steam Deck? Learn how to enable it, map buttons, and fix common input problems.",
+  category: "controls",
+  date: "2026-10-13",
+}
+
+## Why Sort the Capybaras Controller Support Changes How You Play
+
+A cozy capybara sorting puzzle should be the most relaxing thing on your screen — until your wrist starts complaining after the twentieth round. That's exactly why questions about **sort the capybaras controller support** come up so often in player forums: the game is built around quick, repeated taps and drags, and a gamepad can make long sessions far more comfortable. Getting **sort the capybaras controller support** working, though, depends on where you play, which pad you own, and how much remapping you're willing to do.
+
+This guide covers platform-by-platform availability, the control layout most players settle into, and the fixes that actually work when your pad goes quiet mid-puzzle. Everything below is written for people who just want to sort capybaras, not fight their hardware.
+
+## Does Sort the Capybaras Have Controller Support on Your Platform?
+
+Short answer: it depends on the build you're playing, not just the game. Sorting games in this genre are usually designed touch-first and then ported outward. On some storefronts the game reads a gamepad natively; on others it only responds to a mouse or a finger. Community reports differ from platform to platform, so treat the table below as a starting point rather than gospel.
+
+**Platform support at a glance (community reports)**
+
+| Platform | Native gamepad support | Best input | What players report |
+|---|---|---|---|
+| PC via a major storefront | Often yes, sometimes partial | Gamepad or mouse | Pads are usually detected, but prompts may stay keyboard-flavored |
+| PC via direct-download builds | Inconsistent | Mouse | Some builds ignore gamepads until a patch lands |
+| Mobile (iOS / Android) | Rarely native | Touch | Bluetooth pads often fall back to touch emulation |
+| Handheld PC (Steam Deck and similar) | Yes, through the platform input layer | Built-in controls | Works well once a template is applied |
+| Browser build | Almost never | Mouse / touch | Browsers expose only limited gamepad access |
+
+Two takeaways matter here. First, "does it have controller support" is really a question about *your* build. Second, even when a pad works, the on-screen button prompts may not match your hardware — a cosmetic problem that confuses a lot of new players.
+
+## How to Enable Sort the Capybaras Controller Support Step by Step
+
+If your pad isn't being picked up, work through these steps in order. Most detection problems come down to timing: the game scans for input devices at launch, and a pad that connects afterward is sometimes invisible.
+
+| Step | Action | Why it helps |
+|---|---|---|
+| 1 | Connect the controller **before** launching | Many builds only enumerate devices at startup |
+| 2 | Prefer wired or a 2.4 GHz dongle for first setup | Fewer pairing variables to debug |
+| 3 | Open settings and look for an Input or Controls tab | Some builds include an explicit gamepad toggle |
+| 4 | If there's no toggle, press a face button at the title screen | Auto-detection is common in casual games |
+| 5 | Enable your platform's input layer (Steam Input, Big Picture, etc.) | Forces a generic gamepad template onto the game |
+| 6 | Test in an early, low-pressure level | Confirms the mapping before a hard board |
+| 7 | Fully quit and relaunch if the pad still isn't seen | Clears stale device states |
+
+If step 5 is what finally works for you, that's normal — it's also the step most quick guides skip. Once a template is applied, the platform handles the translation between your pad and the game's keyboard-and-mouse assumptions.
+
+## What Each Button Typically Does
+
+There's no universal standard for casual sorting games, so the layout below reflects what players most often end up with after remapping. Always confirm against the in-game control legend, because builds differ.
+
+| Input | Typical action | Notes |
+|---|---|---|
+| Left stick / D-pad | Move the cursor between stacks | D-pad is usually more precise |
+| A / Cross | Pick up or select a capybara | Confirm button in most menus |
+| A again (or X / Square) | Drop onto a new stack | Some builds use a separate drop button |
+| B / Circle | Cancel selection or undo | Undo is the most-remapped action |
+| Y / Triangle | Hint, shuffle, or special ability | Only present in some builds |
+| Shoulder buttons | Cycle levels or fast-forward | Also handy in menus |
+| Start / Options | Pause menu | — |
+
+The single biggest quality-of-life change is putting undo on a shoulder button. Undo is the action you'll press most often on a tricky board, and reaching for a face button breaks your thumb's rhythm.
+
+## Touch, Mouse, Gamepad, and Keyboard Compared
+
+Which input is "best" depends on what you're optimizing for. Here's how the options stack up in practice.
+
+| Input | Speed on simple boards | Speed on dense boards | Comfort over long sessions | Precision |
+|---|---|---|---|---|
+| Mouse | Fastest | Fastest | Lowest | Highest |
+| Touch | Fast | Fast | Medium | High |
+| Gamepad | Medium | Medium | Highest | Medium |
+| Keyboard only | Slow | Slow | Medium | Low |
+
+Mouse and touch win on raw speed because you can point at exactly what you want. A gamepad wins on comfort and consistency — you never lose your cursor, and your hand stays in one position for hours. For players who settle in for long sessions, sort the capybaras controller support is the difference between a twenty-minute session and a two-hour one.
+
+Worth knowing: many sorting games use a cursor-based control scheme rather than direct manipulation. That means a gamepad moves a highlight around the board instead of letting you grab a capybara directly. It feels slower at first and faster later, once your thumb learns the grid.
+
+## Troubleshooting When Sort the Capybaras Controller Support Stops Working
+
+Most input failures fall into a handful of buckets. Match your symptom to the fix below.
+
+| Symptom | Likely cause | Fix |
+|---|---|---|
+| Pad never detected | Connected after launch | Reconnect, then relaunch the game |
+| Cursor moves, buttons do nothing | Partial or wrong template | Switch to a different gamepad template |
+| Every press registers twice | Two input layers active at once | Disable either the in-game option or the platform layer, not both |
+| Cursor drifts on its own | Deadzone set too tight | Raise the stick deadzone in your remapper |
+| Works in menus, dead in levels | Overlay stealing focus | Close overlays, alt-tab away and back |
+| Noticeable input lag | Bluetooth interference | Switch to wired or 2.4 GHz |
+| Wrong button prompts shown | Template doesn't match your pad brand | Pick the brand-matched template |
+
+A quick sanity check before you change anything: open a [browser-based controller tester](https://gamepad-tester.com/) and confirm every button reports correctly outside the game. If a button is dead there too, the problem is hardware, not software. Community reports consistently show that "broken" controllers are usually just a low battery or a loose cable.
+
+## Steam Deck, Big Picture, and Remapping Tools
+
+On handheld PCs and in Big Picture mode, the platform's built-in input layer does the heavy lifting. It maps your pad to keyboard and mouse inputs, which is why games without native gamepad code still respond to a controller. Steam's own [Steam Input documentation](https://partner.steamgames.com/doc/features/steam_controller) explains how templates, action sets, and community layouts work — worth reading if you want to build a custom layout.
+
+On Windows, third-party remappers fill the same role for non-Steam builds. Common options include DS4Windows for PlayStation pads, the Xbox Accessories app for Microsoft hardware, reWASD for deep customization, and JoyToKey for pure keyboard emulation. Pick one tool, not three — stacked remappers are the number-one cause of double inputs.
+
+## Tips for Sorting Faster With a Gamepad
+
+Once sort the capybaras controller support is working in your build, small habits close most of the speed gap with a mouse.
+
+- **Use the D-pad for single-step movement.** Sticks overshoot on tight grids.
+- **Remap undo to a shoulder button** so it never leaves your grip.
+- **Slow the cursor down, don't speed it up,** until your accuracy stabilizes.
+- **Plan two moves ahead** so you're not dragging across the whole board.
+- **Practice on easy levels** with the pad before tackling a dense board.
+- **Look for a hold-versus-toggle option** for pick-up actions.
+- **Keep the pad wired** during long sessions to avoid mid-puzzle dropouts.
+
+None of these are dramatic changes, but together they make a gamepad feel less like a compromise and more like a preference.
+
+## FAQ
+
+**Does sort the capybaras controller support work on phones?**
+Usually not natively. Most mobile builds are touch-first, and a Bluetooth pad will typically behave like a finger rather than a gamepad. Some players report success with their device's own screen-mapping tools, but results vary by phone and build.
+
+**Can I remap the buttons?**
+If the game offers a controls menu, yes. If it doesn't, use your platform's input layer or a desktop remapper to build a layout. That's the most reliable route for builds without in-game remapping.
+
+**Why does my controller work in menus but not in the puzzle?**
+This is almost always a focus or overlay problem. A notification overlay or a background app can steal input focus, so the game receives menu navigation but not in-level actions. Close overlays and re-enter the level.
+
+**Is a controller actually better for this game?**
+For short sessions, a mouse is faster. For long, relaxed sessions, a gamepad is more comfortable and keeps your posture stable. If sort the capybaras controller support works in your build, try it for a few levels before deciding.
