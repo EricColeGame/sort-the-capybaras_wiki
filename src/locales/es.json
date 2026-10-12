@@ -1,1 +1,529 @@
-{}
+{
+  "site": {
+    "name": "Sort The Capybaras Wiki",
+    "shortName": "Sort The Capybaras",
+    "tagline": "Guías de ordenación, consejos y colección de capibaras",
+    "description": "La Wiki completa de Sort The Capybaras con guías de niveles, soluciones de puzles, consejos de juego, información sobre los capibaras y todo lo que los jugadores necesitan para dominar los desafíos de ordenación.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "features": "Características",
+    "community": "Comunidad",
+    "controls": "Controles"
+  },
+  "home": {
+    "meta": {
+      "title": "Sort The Capybaras Wiki - Guías, niveles y consejos",
+      "description": "La Wiki completa de Sort The Capybaras con guías de niveles, soluciones de puzles, consejos de juego, información sobre los capibaras y todo lo que los jugadores necesitan para dominar los desafíos de ordenación."
+    },
+    "hero": {
+      "eyebrow": "Juego de puzles de ordenación adorable",
+      "title": "Sort The Capybaras Wiki",
+      "description": "Sort The Capybaras es un relajante juego de puzles en el que los jugadores organizan adorables capibaras a través de coloridos desafíos de ordenación, resolviendo niveles con estrategia y ritmo.",
+      "stats": [
+        "Todos los niveles",
+        "Consejos de ordenación",
+        "Colección de capibaras",
+        "Actualizaciones semanales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Consejos de juego",
+      "tertiaryCta": "Página de Steam",
+      "videoLabel": "Contenido oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en Sort The Capybaras",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende la regla básica de ordenación: mueve el capibara de arriba a una pila igual o a un corral vacío, y despeja cada tablero agrupando capibaras idénticos."
+        },
+        {
+          "number": "2",
+          "title": "Progresión de niveles",
+          "description": "Descubre cómo los niveles de Sort The Capybaras pasan de tableros abiertos de calentamiento a puzles de espacios ajustados, y cómo reservar un corral libre para el final."
+        },
+        {
+          "number": "3",
+          "title": "Consejos para farmear monedas",
+          "description": "Gasta las monedas donde más importan: primero las ranuras de reserva permanentes y luego los potenciadores de deshacer y mezclar para los tableros que se te resisten."
+        },
+        {
+          "number": "4",
+          "title": "Mecánicas de ordenación",
+          "description": "Domina la coincidencia de rasgos, la economía de movimientos y la lectura de capibaras enterrados que convierten un tablero caótico en un despeje limpio de una sola pasada."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Mecánicas de ordenación",
+        "Guía de la tienda",
+        "Consejos de todos los niveles"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas para tus primeros tableros, desde la regla básica hasta la prioridad de movimientos y los errores que atascan un nivel.",
+          "href": "/guide/sort-the-capybaras-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Cómo jugar",
+          "description": "Un recorrido claro del ciclo de ordenar, apilar y despejar que hay detrás de cada tablero de Sort The Capybaras.",
+          "href": "/guide/sort-the-capybaras-how-to-play"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mecánicas de ordenación",
+          "description": "Coincidencia de rasgos, economía de movimientos y la lógica de restricciones que decide si un tablero se despeja o se bloquea.",
+          "href": "/mechanics/sort-the-capybaras-sorting"
+        },
+        {
+          "badge": "Popular",
+          "title": "Niveles explicados",
+          "description": "Arquetipos de niveles, la curva de dificultad y los hábitos que mantienen despejable el último tercio de un tablero.",
+          "href": "/mechanics/sort-the-capybaras-levels"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Tienda y mejoras",
+          "description": "Qué comprar primero, cómo se acumula la economía de ranuras y cuándo merece la pena un potenciador.",
+          "href": "/mechanics/sort-the-capybaras-store"
+        },
+        {
+          "badge": "Popular",
+          "title": "Consejos y trucos",
+          "description": "Diez hábitos que reducen tu número de movimientos y evitan los reinicios en tableros llenos y con espacios ajustados.",
+          "href": "/guide/sort-the-capybaras-tips"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de controles",
+          "description": "Entradas de selección, movimiento y colocación para PC, móvil y mando, además de soluciones cuando la entrada no responde.",
+          "href": "/controls/sort-the-capybaras-controls"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de desafíos",
+          "description": "Ranuras bloqueadas, corrales congelados y presupuestos de movimientos ajustados, desglosados en un orden de actuación claro.",
+          "href": "/mechanics/sort-the-capybaras-challenges"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Fecha de lanzamiento",
+          "description": "Sigue las noticias de lanzamiento, la disponibilidad de la demo y los detalles de la página de Steam de Sort The Capybaras en un solo lugar.",
+          "href": "/features/sort-the-capybaras-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Sort The Capybaras?",
+      "paragraphs": [
+        "Sort The Capybaras es un acogedor juego de puzles de ordenación construido sobre una regla sencilla: solo puedes coger el capibara que está encima de una pila, y solo puede caer sobre un capibara igual o en un corral vacío. Cada tablero te pide agrupar todos los capibaras por color, patrón o accesorio antes de que se agoten tus ranuras libres.",
+        "Lo que empieza como un suave calentamiento pronto se convierte en una prueba de planificación. Los tableros añaden capibaras enterrados, ranuras bloqueadas, límites de movimientos y corrales más ajustados, así que quienes examinan todo el tablero antes de tocar son los que despejan los niveles de una sola pasada. Nuestra wiki reúne las mecánicas de ordenación, el desglose de niveles, las prioridades de la tienda y los consejos de control que mantienen tu rebaño en orden."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Steam"
+        },
+        {
+          "label": "Género",
+          "value": "Puzle acogedor"
+        },
+        {
+          "label": "Temática",
+          "value": "Ordenación de capibaras"
+        },
+        {
+          "label": "Bucle principal",
+          "value": "Ordenar y apilar"
+        },
+        {
+          "label": "Estilo de juego",
+          "value": "Relajante"
+        },
+        {
+          "label": "Dificultad",
+          "value": "Casual a complicado"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la Wiki de Sort The Capybaras",
+      "description": "Navega por las guías de Sort The Capybaras sobre reglas de ordenación, tipos de niveles, mejoras de tienda, controles y los consejos que mantienen cada tablero despejable.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Sort The Capybaras",
+          "description": "Un inicio paso a paso que cubre la regla básica de ordenación, la prioridad de movimientos y los errores de principiante que atascan los primeros tableros.",
+          "href": "/guide/sort-the-capybaras-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Examina todo el tablero y cuenta cada tipo de capibara antes de tu primer movimiento"
+            },
+            {
+              "label": "2",
+              "detail": "Encuentra el capibara más enterrado y libéralo pronto, mientras aún tengas corrales libres"
+            },
+            {
+              "label": "3",
+              "detail": "Coloca sobre pilas que ya son casi de un solo tipo en vez de empezar montones nuevos"
+            },
+            {
+              "label": "4",
+              "detail": "Agrupa los movimientos de coincidencia para terminar un grupo antes de abrir el siguiente"
+            },
+            {
+              "label": "5",
+              "detail": "Mantén al menos un corral vacío en reserva como vía de escape"
+            },
+            {
+              "label": "6",
+              "detail": "Usa una ranura vacía solo cuando no exista ningún movimiento de coincidencia"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de mejoras de Sort The Capybaras",
+          "description": "Entiende qué vende la tienda del juego y en qué orden comprarlo, desde las ranuras de reserva permanentes hasta los potenciadores situacionales.",
+          "href": "/mechanics/sort-the-capybaras-store",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ranuras",
+              "detail": "Las ranuras de reserva extra amplían tu bandeja y hacen más indulgente cada tablero posterior"
+            },
+            {
+              "label": "Potenciadores",
+              "detail": "Las fichas de deshacer y mezclar desatascan un tablero que ya ha consumido varios intentos"
+            },
+            {
+              "label": "Movimientos",
+              "detail": "Los movimientos extra y las mejoras de temporizador te dan margen para terminar niveles ajustados y con límite de movimientos"
+            },
+            {
+              "label": "Pistas",
+              "detail": "Las fichas de pista resaltan un movimiento válido cuando un tablero lleno se estanca"
+            },
+            {
+              "label": "Aspectos",
+              "detail": "Los aspectos y temas de capibara son cosméticos, así que cómpralos solo por diversión"
+            },
+            {
+              "label": "Packs",
+              "detail": "Los packs con descuento mezclan varias mejoras y compensan una vez cubiertas las básicas"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tier list de disfraces de Sort The Capybaras",
+          "description": "Todas las familias de disfraces del tablero, clasificadas por lo pronto que deberías ordenarlas, desde los conjuntos temáticos de temporada hasta los sombreros y botas más simples.",
+          "href": "/mechanics/sort-the-capybaras-costumes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Los conjuntos de temporada completan filas temáticas y deben colocarse antes de mover cualquier otra cosa"
+            },
+            {
+              "label": "A",
+              "detail": "Los trajes de cuerpo entero necesitan su propia ranura y bloquean los tableros más rápido"
+            },
+            {
+              "label": "B",
+              "detail": "La ropa de abrigo y los accesorios son de dificultad media y premian agruparlos pronto"
+            },
+            {
+              "label": "C",
+              "detail": "Los sombreros y el calzado son las familias más fáciles y es seguro ordenarlos al final"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de la comunidad de Sort The Capybaras",
+          "description": "Encuentra los espacios de Discord y Reddit donde los jugadores de Sort The Capybaras intercambian rutas de ordenación, comparten capturas de tableros y comparan configuraciones acogedoras.",
+          "href": "/community/sort-the-capybaras-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Únete al servidor de la comunidad para intercambiar rutas de ordenación y recibir una pista en un tablero terco"
+            },
+            {
+              "label": "Reddit",
+              "detail": "Explora los hilos de jugadores con análisis de tableros, novedades y ideas de configuración acogedora"
+            },
+            {
+              "label": "Reseñas",
+              "detail": "Lee lo que dicen los jugadores sobre el ciclo de ordenación antes de lanzarte"
+            },
+            {
+              "label": "Fans cozy",
+              "detail": "Conoce a jugadores que disfrutan del lado tranquilo y sin presión del tema de los capibaras"
+            },
+            {
+              "label": "Tableros",
+              "detail": "Comparte un tablero ordenado o un despeje ingenioso con la comunidad"
+            },
+            {
+              "label": "Ayuda",
+              "detail": "Los hilos de la comunidad son un lugar amable para preguntar dudas básicas de ordenación"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Consejos y trucos de Sort The Capybaras",
+          "description": "Diez hábitos que reducen tu número de movimientos, desde mantener un corral vacío hasta desenterrar capibaras enterrados antes de ordenar.",
+          "href": "/guide/sort-the-capybaras-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Corral vacío",
+              "detail": "Mantén al menos un estanque vacío para que cualquier color tenga adónde ir"
+            },
+            {
+              "label": "Excava pronto",
+              "detail": "Expón primero los capibaras enterrados para planificar con la información oculta"
+            },
+            {
+              "label": "Atascado",
+              "detail": "Ataca primero el estanque más lleno porque tiene la menor flexibilidad"
+            },
+            {
+              "label": "De una vez",
+              "detail": "Termina un estanque por completo en vez de avanzar a medias en tres"
+            },
+            {
+              "label": "Cuenta",
+              "detail": "Controla cuántos grupos de color quedan para saber cuántos corrales vacíos necesitas"
+            },
+            {
+              "label": "Dos por delante",
+              "detail": "Pregúntate cuál será tu próximo movimiento antes de comprometer el actual"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de desafíos de Sort The Capybaras",
+          "description": "Desglosa los tableros más duros de Sort The Capybaras, desde ranuras bloqueadas y congeladas hasta presupuestos de movimientos ajustados y corrales llenos.",
+          "href": "/mechanics/sort-the-capybaras-challenges",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bloqueado",
+              "detail": "Las ranuras congeladas o bloqueadas deben despejarse antes de aceptar un capibara"
+            },
+            {
+              "label": "Límite de movimientos",
+              "detail": "Los presupuestos ajustados castigan los movimientos de separación, así que agrupa en vez de dividir"
+            },
+            {
+              "label": "Capacidad",
+              "detail": "Cada corral admite un número fijo, así que nunca se permite desbordar una pila"
+            },
+            {
+              "label": "Solo la de arriba",
+              "detail": "Solo puedes mover el capibara de arriba, así que el orden importa tanto como el color"
+            },
+            {
+              "label": "Refuerzo",
+              "detail": "Guarda los refuerzos de mezclar y deshacer para tableros que ya han consumido varios intentos"
+            },
+            {
+              "label": "Reinicio",
+              "detail": "Diez segundos de reinicio superan a cinco minutos de mezclas imposibles"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de controles de Sort The Capybaras",
+          "description": "Aprende las entradas de seleccionar, mover y colocar de Sort The Capybaras en PC, móvil y mando.",
+          "href": "/controls/sort-the-capybaras-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Clic",
+              "detail": "Selecciona un capibara con el clic izquierdo en PC"
+            },
+            {
+              "label": "Arrastrar",
+              "detail": "Mantén el botón izquierdo y arrastra el capibara hasta su corral correspondiente"
+            },
+            {
+              "label": "Flechas",
+              "detail": "Usa las teclas de flecha para mover un capibara seleccionado sin ratón"
+            },
+            {
+              "label": "Intro",
+              "detail": "Confirma un movimiento con Intro o con el clic izquierdo"
+            },
+            {
+              "label": "Esc",
+              "detail": "Cancela o deshaz la selección actual con Esc o con el clic derecho"
+            },
+            {
+              "label": "Toque",
+              "detail": "En móvil, toca un capibara y luego su destino para colocar con precisión"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias y actualizaciones de Sort The Capybaras",
+          "description": "Sigue las noticias de lanzamiento, la disponibilidad de la demo y los detalles de la página de Steam de Sort The Capybaras en un solo lugar.",
+          "href": "/features/sort-the-capybaras-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lanzamiento",
+              "detail": "Sigue la ventana de lanzamiento y cómo suelen desplegarse las fechas de los puzles acogedores"
+            },
+            {
+              "label": "Demo",
+              "detail": "Prueba la demo gratuita para ver si el ciclo de ordenación encaja con tu estilo"
+            },
+            {
+              "label": "Steam",
+              "detail": "Añade la página de Steam a la lista de deseados para no perderte notas de parche ni detalles de plataforma"
+            },
+            {
+              "label": "Música",
+              "detail": "Comprueba si la banda sonora se vende por separado o como extra de lujo"
+            },
+            {
+              "label": "Plataformas",
+              "detail": "Las versiones móviles suelen llegar primero, con PC y consola después"
+            },
+            {
+              "label": "Lista de deseados",
+              "detail": "Activa las notificaciones de la tienda para enterarte del día de lanzamiento antes que nadie"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de Sort The Capybaras",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Sort The Capybaras.",
+      "items": [
+        {
+          "question": "¿Qué es Sort The Capybaras?",
+          "answer": "Sort The Capybaras es un acogedor juego de puzles de ordenación. Los capibaras llegan en corrales apilados con distintos colores, patrones y accesorios, y tú los mueves a grupos iguales hasta que cada corral tiene un solo tipo."
+        },
+        {
+          "question": "¿Cómo se juega a Sort The Capybaras?",
+          "answer": "Solo puedes coger el capibara que está encima de una pila, y solo puede caer sobre un capibara igual o en un corral vacío. Despeja cada contenedor agrupando capibaras idénticos y el tablero quedará resuelto."
+        },
+        {
+          "question": "¿Qué debería comprar primero en la tienda de Sort The Capybaras?",
+          "answer": "Las ranuras de reserva extra van primero porque son permanentes y hacen más indulgente cada tablero futuro. Los potenciadores de deshacer, mezclar y movimiento extra merece la pena guardarlos para niveles que te han vencido varias veces."
+        },
+        {
+          "question": "¿Sort The Capybaras tiene multijugador?",
+          "answer": "Sort The Capybaras está concebido como una experiencia de puzle para un jugador. El lado comunitario vive en Discord y Reddit, donde los jugadores comparan rutas de ordenación y comparten capturas de tableros."
+        },
+        {
+          "question": "¿En qué plataformas puedo jugar a Sort The Capybaras?",
+          "answer": "Sort The Capybaras tiene una página de Steam, y los juegos de ordenación acogedores de este género suelen lanzarse en móvil y PC. Consulta la ficha oficial de la tienda para conocer las plataformas exactas de tu región."
+        },
+        {
+          "question": "¿Sort The Capybaras es difícil para un principiante?",
+          "answer": "No. Los niveles iniciales funcionan como tutoriales y la regla básica se aprende en un minuto. El desafío llega después, cuando escasean los corrales vacíos y los capibaras enterrados te obligan a planificar varios movimientos por delante."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Sort The Capybaras?",
+      "description": "Desde tu primer desafío de ordenación hasta una colección de capibaras totalmente organizada, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Sort The Capybaras",
+    "overviewDescription": "Guías paso a paso de Sort The Capybaras que cubren cómo jugar, consejos para principiantes, primeras impresiones y recorridos completos del acogedor puzle de ordenación."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de juego de Sort The Capybaras",
+    "overviewDescription": "Comprende las mecánicas clave de Sort The Capybaras, desde las reglas de ordenación y el diseño de niveles hasta los disfraces, la tienda del juego y los desafíos diarios."
+  },
+  "progression": {
+    "overviewTitle": "Progresión de Sort The Capybaras",
+    "overviewDescription": "Sigue tu progresión en Sort The Capybaras, desde los primeros niveles pequeños de la tienda hasta el final con 4.800 capibaras, con objetivos clave para cada etapa."
+  },
+  "features": {
+    "overviewTitle": "Características de Sort The Capybaras",
+    "overviewDescription": "Todo sobre las características de Sort The Capybaras, incluida la fecha de lanzamiento, la página de Steam, el acceso a la demo, el contenido del juego completo y los detalles de la banda sonora."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Sort The Capybaras",
+    "overviewDescription": "Únete a la comunidad de Sort The Capybaras con debates en Reddit y Discord, reseñas de jugadores y un vistazo a por qué este puzle acogedor y adorable conquista a la gente."
+  },
+  "controls": {
+    "overviewTitle": "Controles de Sort The Capybaras",
+    "overviewDescription": "Una referencia completa de controles de Sort The Capybaras que cubre el teclado, el ratón y la compatibilidad con mando para que ordenes cómodamente en PC."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Sort The Capybaras Wiki",
+    "about": "Sort The Capybaras Wiki es un centro de guías independiente hecho por fans que cubre estrategias de ordenación, recorridos de niveles, mejoras y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Sort The Capybaras Wiki. Sin afiliación con Red Panda Studio ni Steam.",
+    "description": "Relajante juego de puzles de ordenación de capibaras. Organiza adorables capibaras en niveles coloridos.",
+    "playGame": "Juega a Sort The Capybaras en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "X (Twitter) oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio",
+    "mechanicsGuides": "Guías de mecánicas",
+    "progressionGuides": "Guías de progresión",
+    "featuresGuides": "Guías de características"
+  }
+}

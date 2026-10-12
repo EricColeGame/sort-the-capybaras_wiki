@@ -1,1 +1,529 @@
-{}
+{
+  "site": {
+    "name": "Sort The Capybaras Wiki",
+    "shortName": "Sort The Capybaras",
+    "tagline": "ソートガイド・コツ・カピバラコレクション",
+    "description": "レベルガイド、パズルの解答、ゲームプレイのコツ、カピバラ情報など、並べ替えチャレンジを極めたいプレイヤーに必要なすべてを網羅した Sort The Capybaras Wiki の完全ガイド。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替える",
+    "guide": "ガイド",
+    "mechanics": "ゲームシステム",
+    "progression": "進行",
+    "features": "機能",
+    "community": "コミュニティ",
+    "controls": "操作方法"
+  },
+  "home": {
+    "meta": {
+      "title": "Sort The Capybaras Wiki - ガイド・レベル・コツ",
+      "description": "レベルガイド、パズルの解答、ゲームプレイのコツ、カピバラ情報など、並べ替えチャレンジを極めたいプレイヤーに必要なすべてを網羅した Sort The Capybaras Wiki の完全ガイド。"
+    },
+    "hero": {
+      "eyebrow": "かわいいソートパズルゲーム",
+      "title": "Sort The Capybaras Wiki",
+      "description": "Sort The Capybaras は、愛らしいカピバラをカラフルな並べ替えチャレンジで整理していくリラックス系パズルゲームです。戦略とタイミングでレベルを攻略しましょう。",
+      "stats": [
+        "全レベル",
+        "ソートのコツ",
+        "カピバラコレクション",
+        "毎週更新"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "ゲームプレイのコツ",
+      "tertiaryCta": "Steam ページ",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Sort The Capybaras の旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "まずは基本ルールを覚えましょう。一番上のカピバラを同じ種類の山か空の囲いへ移し、同じカピバラ同士をまとめてすべての盤面をクリアします。"
+        },
+        {
+          "number": "2",
+          "title": "レベルの進行",
+          "description": "Sort The Capybaras のレベルが、余裕のあるウォームアップ盤面からスロットの狭いパズルへとどう難しくなるか、終盤のために空き囲いをどう残すかを解説します。"
+        },
+        {
+          "number": "3",
+          "title": "コイン稼ぎのコツ",
+          "description": "コインは最も効果的な場所に使いましょう。まずは恒久的な保留スロット、次に何度も失敗する盤面向けのアンドゥとシャッフルのパワーアップです。"
+        },
+        {
+          "number": "4",
+          "title": "ソートの仕組み",
+          "description": "特徴のマッチング、手数のやりくり、埋もれたカピバラの読み方を身につけて、散らかった盤面を一発クリアに変えましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "ソートの仕組み",
+        "ストアガイド",
+        "全レベルのコツ"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "基本ルールから手数の優先順位、レベルを詰まらせるミスまで、最初の盤面に必要なすべて。",
+          "href": "/guide/sort-the-capybaras-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "遊び方",
+          "description": "すべての Sort The Capybaras 盤面の根底にある「選ぶ・重ねる・消す」の流れをわかりやすく解説します。",
+          "href": "/guide/sort-the-capybaras-how-to-play"
+        },
+        {
+          "badge": "人気",
+          "title": "ソートの仕組み",
+          "description": "特徴のマッチング、手数のやりくり、盤面がクリアできるか詰まるかを決める制約のロジック。",
+          "href": "/mechanics/sort-the-capybaras-sorting"
+        },
+        {
+          "badge": "人気",
+          "title": "レベルの解説",
+          "description": "レベルのタイプ、難易度のカーブ、盤面の最後の3分の1をクリア可能に保つ習慣。",
+          "href": "/mechanics/sort-the-capybaras-levels"
+        },
+        {
+          "badge": "新着",
+          "title": "ストアとアップグレード",
+          "description": "何を最初に買うべきか、スロット経済がどう積み上がるか、いつパワーアップがコインに見合うか。",
+          "href": "/mechanics/sort-the-capybaras-store"
+        },
+        {
+          "badge": "人気",
+          "title": "コツと裏技",
+          "description": "手数を減らし、混み合った狭いスロットの盤面でのリスタートを防ぐ10の習慣。",
+          "href": "/guide/sort-the-capybaras-tips"
+        },
+        {
+          "badge": "新着",
+          "title": "操作方法ガイド",
+          "description": "PC・モバイル・ゲームパッドでの選択・移動・設置の入力方法と、入力が効かないときの対処法。",
+          "href": "/controls/sort-the-capybaras-controls"
+        },
+        {
+          "badge": "人気",
+          "title": "チャレンジガイド",
+          "description": "ロックされたスロット、凍った囲い、厳しい手数制限を明確な手順に分解します。",
+          "href": "/mechanics/sort-the-capybaras-challenges"
+        },
+        {
+          "badge": "新着",
+          "title": "リリース日",
+          "description": "Sort The Capybaras の発売情報、体験版の有無、Steam ページの詳細を一か所で追えます。",
+          "href": "/features/sort-the-capybaras-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Sort The Capybaras とは？",
+      "paragraphs": [
+        "Sort The Capybaras は、シンプルなルールを中心に作られたほのぼの系ソートパズルゲームです。山の一番上にいるカピバラしかつかめず、同じカピバラか空の囲いにしか置けません。各盤面では、空きスロットがなくなる前に、色・模様・アクセサリーごとにすべてのカピバラをグループ分けする必要があります。",
+        "やさしいウォームアップから始まりますが、すぐに計画力が試されます。盤面には埋もれたカピバラ、ロックされたスロット、手数制限、より狭い囲いが加わるため、タップする前に盤面全体を見渡すプレイヤーほど一発でクリアできます。このウィキでは、群れを整頓し続けるためのソートの仕組み、レベル解説、ストアの優先順位、操作のコツをまとめています。"
+      ],
+      "stats": [
+        {
+          "label": "プラットフォーム",
+          "value": "Steam"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ほのぼのパズル"
+        },
+        {
+          "label": "テーマ",
+          "value": "カピバラのソート"
+        },
+        {
+          "label": "コアループ",
+          "value": "並べて重ねる"
+        },
+        {
+          "label": "プレイスタイル",
+          "value": "リラックス"
+        },
+        {
+          "label": "難易度",
+          "value": "カジュアル〜手ごたえあり"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Sort The Capybaras Wiki を探索する",
+      "description": "ソートのルール、レベルの種類、ストアのアップグレード、操作方法、そしてすべての盤面をクリア可能に保つコツをまとめた Sort The Capybaras ガイドを見て回りましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Sort The Capybaras 初心者ガイド",
+          "description": "基本のソートルール、手数の優先順位、最初の数面を詰まらせる初心者のミスまでを順を追って解説します。",
+          "href": "/guide/sort-the-capybaras-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "最初の一手の前に、盤面全体を見て各カピバラの種類を数える"
+            },
+            {
+              "label": "2",
+              "detail": "空き囲いがあるうちに、最も埋もれたカピバラを見つけて早めに解放する"
+            },
+            {
+              "label": "3",
+              "detail": "新しい山を作るより、すでにほぼ一種類で揃っている山に重ねる"
+            },
+            {
+              "label": "4",
+              "detail": "まとめて動かし、次のグループを開く前に一つのグループを完成させる"
+            },
+            {
+              "label": "5",
+              "detail": "逃げ道として、空の囲いを少なくとも一つは残しておく"
+            },
+            {
+              "label": "6",
+              "detail": "同じ種類に置ける手がないときだけ空きスロットを使う"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Sort The Capybaras アップグレードガイド",
+          "description": "ゲーム内ストアで売っているものと、恒久的な保留スロットから状況に応じたパワーアップまでの購入順を理解しましょう。",
+          "href": "/mechanics/sort-the-capybaras-store",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "スロット",
+              "detail": "追加の保留スロットはトレイを広げ、以降のすべての盤面をより寛容にします"
+            },
+            {
+              "label": "パワーアップ",
+              "detail": "アンドゥとシャッフルのトークンは、何度も失敗した盤面を打開します"
+            },
+            {
+              "label": "手数",
+              "detail": "追加手数とタイマーブーストは、手数制限の厳しいレベルを終わらせる余裕を与えます"
+            },
+            {
+              "label": "ヒント",
+              "detail": "ヒントトークンは、混み合った盤面が行き詰まったときに有効な次の一手を示します"
+            },
+            {
+              "label": "スキン",
+              "detail": "カピバラのスキンとテーマは見た目だけなので、楽しみたいときだけ買いましょう"
+            },
+            {
+              "label": "バンドル",
+              "detail": "割引パックは複数のアップグレードをまとめたもので、基本を揃えてからなら元が取れます"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Sort The Capybaras コスチュームティアリスト",
+          "description": "季節限定のテーマセットからシンプルな帽子やブーツまで、盤面にあるすべてのコスチューム系統を、どのくらい早くソートすべきかでランク付けしました。",
+          "href": "/mechanics/sort-the-capybaras-costumes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "季節セットはテーマの列を埋めるので、他の何かを動かす前に配置しましょう"
+            },
+            {
+              "label": "A",
+              "detail": "全身スーツは専用スロットが必要で、盤面を最も早く埋めます"
+            },
+            {
+              "label": "B",
+              "detail": "アウターとアクセサリーは中難易度で、早めにまとめると効果的です"
+            },
+            {
+              "label": "C",
+              "detail": "帽子と靴は最も簡単な系統なので、最後にソートしても安全です"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Sort The Capybaras コミュニティガイド",
+          "description": "Sort The Capybaras のプレイヤーがソートルートを交換し、盤面のスクリーンショットを共有し、ほのぼのした環境を比べ合う Discord と Reddit の場を見つけましょう。",
+          "href": "/community/sort-the-capybaras-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "コミュニティサーバーに参加してソートルートを交換し、手こずる盤面のヒントをもらいましょう"
+            },
+            {
+              "label": "Reddit",
+              "detail": "プレイヤーのスレッドで盤面の解説、アップデートの話題、ほのぼのした環境のアイデアを眺めましょう"
+            },
+            {
+              "label": "レビュー",
+              "detail": "飛び込む前に、プレイヤーがソートのループをどう評価しているかを読みましょう"
+            },
+            {
+              "label": "ほのぼのファン",
+              "detail": "穏やかでプレッシャーのないカピバラの世界観を楽しむプレイヤーと出会いましょう"
+            },
+            {
+              "label": "盤面",
+              "detail": "きれいに片付いた盤面や見事なクリアを、仲間の群れと共有しましょう"
+            },
+            {
+              "label": "サポート",
+              "detail": "コミュニティのスレッドは、基本的なソートの質問を気軽にできる場所です"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Sort The Capybaras のコツと裏技",
+          "description": "囲いを一つ空けておくことから、ソート前に埋もれたカピバラを掘り出すことまで、手数を減らす10の習慣。",
+          "href": "/guide/sort-the-capybaras-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "空の囲い",
+              "detail": "池を少なくとも一つ空けておけば、どの色にも行き先があります"
+            },
+            {
+              "label": "早めに掘る",
+              "detail": "埋もれたカピバラを先に露出させ、隠れた情報を踏まえて計画しましょう"
+            },
+            {
+              "label": "混雑",
+              "detail": "自由度が最も低いので、一番埋まった池から攻めましょう"
+            },
+            {
+              "label": "一気に",
+              "detail": "三つの池を中途半端に進めるより、一つの池を完全に片付けましょう"
+            },
+            {
+              "label": "数える",
+              "detail": "残りの色グループを数え、必要な空き囲いの数を把握しましょう"
+            },
+            {
+              "label": "二手先",
+              "detail": "今の一手を決める前に、次の一手が何になるかを考えましょう"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Sort The Capybaras チャレンジガイド",
+          "description": "ロック・凍結スロットから厳しい手数制限、混み合った囲いまで、最も手ごわい Sort The Capybaras 盤面を分解します。",
+          "href": "/mechanics/sort-the-capybaras-challenges",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ロック",
+              "detail": "凍結・ブロックされたスロットは、カピバラを受け入れる前に解除する必要があります"
+            },
+            {
+              "label": "手数制限",
+              "detail": "厳しい手数制限は分離の手を罰するので、分けるよりまとめましょう"
+            },
+            {
+              "label": "容量",
+              "detail": "各囲いは決まった数しか入らないので、山をあふれさせることはできません"
+            },
+            {
+              "label": "一番上のみ",
+              "detail": "一番上のカピバラしか動かせないので、色と同じくらい順番が重要です"
+            },
+            {
+              "label": "ブースター",
+              "detail": "シャッフルとアンドゥのブースターは、何度も失敗した盤面のために取っておきましょう"
+            },
+            {
+              "label": "リスタート",
+              "detail": "10秒のリスタートは、勝てないシャッフルの5分に勝ります"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Sort The Capybaras 操作ガイド",
+          "description": "PC・モバイル・ゲームパッドでの Sort The Capybaras の選択・移動・設置の入力を学びましょう。",
+          "href": "/controls/sort-the-capybaras-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "クリック",
+              "detail": "PC では左クリックでカピバラを選択します"
+            },
+            {
+              "label": "ドラッグ",
+              "detail": "左ボタンを押したままカピバラを同じ種類の囲いへドラッグします"
+            },
+            {
+              "label": "矢印",
+              "detail": "マウスなしで、矢印キーで選択中のカピバラを移動できます"
+            },
+            {
+              "label": "Enter",
+              "detail": "Enter または左クリックで一手を確定します"
+            },
+            {
+              "label": "Esc",
+              "detail": "Esc または右クリックで現在の選択をキャンセルまたはアンドゥします"
+            },
+            {
+              "label": "タップ",
+              "detail": "モバイルでは、カピバラをタップしてから行き先をタップすると正確に配置できます"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Sort The Capybaras ニュースとアップデート",
+          "description": "Sort The Capybaras の発売ニュース、体験版の有無、Steam ページの詳細を一か所で追えます。",
+          "href": "/features/sort-the-capybaras-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "リリース",
+              "detail": "発売時期と、ほのぼのパズルの発売が通常どのように進むかを追いましょう"
+            },
+            {
+              "label": "体験版",
+              "detail": "無料の体験版で、ソートのループが自分の遊び方に合うか確かめましょう"
+            },
+            {
+              "label": "Steam",
+              "detail": "Steam ページをウィッシュリスト登録して、パッチノートや対応プラットフォームの情報を逃さないようにしましょう"
+            },
+            {
+              "label": "音楽",
+              "detail": "サウンドトラックが単体かデラックス版の追加コンテンツか確認しましょう"
+            },
+            {
+              "label": "プラットフォーム",
+              "detail": "モバイル版が先に出て、PC とコンソールが続くことが多いです"
+            },
+            {
+              "label": "ウィッシュリスト",
+              "detail": "ストア通知をオンにして、発売日の情報をいち早く受け取りましょう"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Sort The Capybaras よくある質問",
+      "description": "Sort The Capybaras に関するよくある質問への手早い回答。",
+      "items": [
+        {
+          "question": "Sort The Capybaras とは何ですか？",
+          "answer": "Sort The Capybaras はほのぼの系ソートパズルゲームです。カピバラは色・模様・アクセサリーの異なる状態で積み重なった囲いに現れ、同じ種類ごとにまとまるまで動かしていきます。"
+        },
+        {
+          "question": "Sort The Capybaras の遊び方は？",
+          "answer": "山の一番上にいるカピバラしかつかめず、同じカピバラか空の囲いにしか置けません。同じカピバラ同士をまとめてすべての容器を空にすれば、盤面クリアです。"
+        },
+        {
+          "question": "Sort The Capybaras のストアで最初に何を買うべき？",
+          "answer": "追加の保留スロットが最優先です。恒久的で、以降のすべての盤面がより寛容になります。アンドゥ、シャッフル、追加手数のパワーアップは、何度も負けたレベルまで取っておく価値があります。"
+        },
+        {
+          "question": "Sort The Capybaras にマルチプレイはありますか？",
+          "answer": "Sort The Capybaras はシングルプレイのパズル体験として作られています。コミュニティは Discord と Reddit にあり、プレイヤーがソートルートを比べたり盤面のスクリーンショットを共有したりしています。"
+        },
+        {
+          "question": "Sort The Capybaras はどのプラットフォームで遊べますか？",
+          "answer": "Sort The Capybaras には Steam ページがあり、このジャンルのほのぼのソートゲームは通常モバイルと PC で展開されます。地域ごとの正確な対応プラットフォームは公式ストアの情報を確認してください。"
+        },
+        {
+          "question": "Sort The Capybaras は初心者には難しいですか？",
+          "answer": "いいえ。序盤のレベルはチュートリアルとして機能し、基本ルールは1分ほどで覚えられます。難しくなるのはその後で、空き囲いが少なくなり、埋もれたカピバラが数手先の計画を迫るときです。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Sort The Capybaras を極める準備はできましたか？",
+      "description": "最初のソートチャレンジから、きれいに整理されたカピバラコレクションまで、コミュニティウィキが無料で最新のガイドでお手伝いします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Sort The Capybaras ガイド",
+    "overviewDescription": "遊び方、初心者向けのコツ、ファーストインプレッション、ほのぼのソートパズルの完全攻略までを扱う、順を追った Sort The Capybaras ガイド。"
+  },
+  "mechanics": {
+    "overviewTitle": "Sort The Capybaras のゲームシステム",
+    "overviewDescription": "ソートのルールやレベル構成から、コスチューム、ゲーム内ストア、デイリーチャレンジまで、Sort The Capybaras の中心となる仕組みを理解しましょう。"
+  },
+  "progression": {
+    "overviewTitle": "Sort The Capybaras の進行",
+    "overviewDescription": "最初の小さなストア段階から 4,800 匹のカピバラのフィナーレまで、各段階のマイルストーンとともに Sort The Capybaras の進行を追いましょう。"
+  },
+  "features": {
+    "overviewTitle": "Sort The Capybaras の機能",
+    "overviewDescription": "リリース日、Steam ページ、体験版の入手方法、本編の内容、サウンドトラックの詳細など、Sort The Capybaras の機能に関するすべて。"
+  },
+  "community": {
+    "overviewTitle": "Sort The Capybaras コミュニティ",
+    "overviewDescription": "Reddit と Discord での議論、プレイヤーレビュー、そしてこのほのぼのかわいいパズルが人気を集める理由を、Sort The Capybaras コミュニティで見てみましょう。"
+  },
+  "controls": {
+    "overviewTitle": "Sort The Capybaras の操作方法",
+    "overviewDescription": "キーボード操作、マウス入力、コントローラー対応を網羅した Sort The Capybaras の操作リファレンス。PC でも快適にソートできます。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Roblox でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだありません。もうすぐ公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "Sort The Capybaras Wiki",
+    "about": "Sort The Capybaras Wiki は、ソート戦略、レベル攻略、アップグレード、そして新規・ベテランを問わず役立つゲーム知識を扱う独立系のファン制作ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Sort The Capybaras Wiki. Red Panda Studio および Steam とは関係ありません。",
+    "description": "ほのぼの系カピバラソートパズルゲーム。かわいいカピバラをカラフルなレベルで整理しましょう。",
+    "playGame": "Steam で Sort The Capybaras をプレイ",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "公式 X（Twitter）",
+    "beginnerGuide": "初心者ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "mechanicsGuides": "ゲームシステムガイド",
+    "progressionGuides": "進行ガイド",
+    "featuresGuides": "機能ガイド"
+  }
+}
