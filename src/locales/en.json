@@ -37,27 +37,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Sort The Capybaras Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core sorting rule: move the top capybara onto a matching stack or an empty pen, then clear every board by grouping identical capybaras."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Level Progression",
+          "description": "See how Sort The Capybaras levels ramp from open warm-up boards to tight-slot puzzles, and how to keep a free pen for the endgame."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Coin Farming Tips",
+          "description": "Spend coins where they matter most: permanent holding slots first, then undo and shuffle power-ups for the boards that keep beating you."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Sorting Mechanics",
+          "description": "Master trait matching, move economy, and the buried-capybara reads that turn a messy board into a clean, one-pass clear."
         }
       ]
     },
@@ -65,265 +65,391 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Sorting Mechanics",
+        "Store Guide",
+        "All Level Tips"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need for your first boards, from the core rule to move priority and the mistakes that jam a level.",
+          "href": "/guide/sort-the-capybaras-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "How to Play",
+          "description": "A plain-English walkthrough of the sort, stack, and clear loop behind every Sort The Capybaras board.",
+          "href": "/guide/sort-the-capybaras-how-to-play"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Sorting Mechanics",
+          "description": "Trait matching, move economy, and the constraint logic that decides whether a board clears or locks up.",
+          "href": "/mechanics/sort-the-capybaras-sorting"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Levels Explained",
+          "description": "Level archetypes, the difficulty curve, and the habits that keep the final third of a board clearable.",
+          "href": "/mechanics/sort-the-capybaras-levels"
+        },
+        {
+          "badge": "New",
+          "title": "Store & Upgrades",
+          "description": "What to buy first, how the slot economy compounds, and when a power-up is actually worth the coins.",
+          "href": "/mechanics/sort-the-capybaras-store"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Tips & Tricks",
+          "description": "Ten habits that cut your move count and stop the restarts on crowded, tight-slot boards.",
+          "href": "/guide/sort-the-capybaras-tips"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Controls Guide",
+          "description": "Select, move, and drop inputs for desktop, mobile, and gamepad, plus the fixes when input goes quiet.",
+          "href": "/controls/sort-the-capybaras-controls"
+        },
+        {
+          "badge": "Popular",
+          "title": "Challenges Guide",
+          "description": "Locked slots, frozen pens, and tight move budgets broken down into a clear order of operations.",
+          "href": "/mechanics/sort-the-capybaras-challenges"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Release Date",
+          "description": "Track launch news, demo availability, and Steam page details for Sort The Capybaras in one place.",
+          "href": "/features/sort-the-capybaras-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Sort The Capybaras?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Sort The Capybaras is a cozy sorting puzzle game built around a simple rule: you can only pick up the capybara sitting on top of a stack, and it can only land on a matching capybara or an empty pen. Each board asks you to group every capybara by its color, pattern, or accessory before your free slots run out.",
+        "What starts as a gentle warm-up quickly becomes a planning test. Boards add buried capybaras, locked slots, move limits, and tighter pens, so the players who scan the whole board before tapping are the ones who clear levels in a single pass. Our wiki collects the sorting mechanics, level breakdowns, store priorities, and control tips that keep your herd tidy."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Cozy Puzzle"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Theme",
+          "value": "Capybara Sorting"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Core Loop",
+          "value": "Sort & Stack"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Play Style",
+          "value": "Relaxing"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Difficulty",
+          "value": "Casual to Tricky"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Sort The Capybaras Wiki",
+      "description": "Browse Sort The Capybaras guides for sorting rules, level types, store upgrades, controls, and the tips that keep every board clearable.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Sort The Capybaras Beginner Guide",
+          "description": "A step-by-step start covering the core sorting rule, move priority, and the beginner mistakes that jam the first few boards.",
+          "href": "/guide/sort-the-capybaras-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Scan the whole board and count each capybara type before your first move"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Find the most buried capybara and free it early, while you still have open pens"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Match onto stacks that are already mostly one type instead of starting new piles"
+            },
+            {
+              "label": "4",
+              "detail": "Batch matching moves so you finish one group before opening the next"
+            },
+            {
+              "label": "5",
+              "detail": "Keep at least one empty pen in reserve as your escape hatch"
+            },
+            {
+              "label": "6",
+              "detail": "Spend an empty slot only when no matching move exists"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Sort The Capybaras Upgrades Guide",
+          "description": "Understand what the in-game store sells and the order to buy it, from permanent holding slots to situational power-ups.",
+          "href": "/mechanics/sort-the-capybaras-store",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Slots",
+              "detail": "Extra holding slots expand your tray and make every later board more forgiving"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Power-Ups",
+              "detail": "Undo and shuffle tokens break a board that has eaten several attempts"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Moves",
+              "detail": "Extra moves and timer boosts give you room to finish tight, move-limited levels"
+            },
+            {
+              "label": "Hints",
+              "detail": "Hint tokens highlight a valid next move when a crowded board stalls"
+            },
+            {
+              "label": "Skins",
+              "detail": "Capybara skins and themes are cosmetic, so buy them only for fun"
+            },
+            {
+              "label": "Bundles",
+              "detail": "Discounted packs mix several upgrades and pay off once the basics are covered"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Sort The Capybaras Costume Tier List",
+          "description": "Every costume family on the board ranked by how early you should sort it, from themed seasonal sets to simple hats and boots.",
+          "href": "/mechanics/sort-the-capybaras-costumes",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Seasonal sets fill themed rows and should be placed before anything else moves"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Full-body suits need their own dedicated slot and lock boards fastest"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Outerwear and accessories are medium difficulty and reward early grouping"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Headwear and footwear are the easiest families and safe to sort last"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Sort The Capybaras Community Guide",
+          "description": "Find the Discord and Reddit spaces where Sort The Capybaras players trade sorting routes, share board screenshots, and compare cozy setups.",
+          "href": "/community/sort-the-capybaras-discord",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Discord",
+              "detail": "Join the community server to swap sorting routes and get a hint on a stubborn board"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Reddit",
+              "detail": "Browse player threads for board breakdowns, update talk, and cozy setup ideas"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Reviews",
+              "detail": "Read what players say about the sorting loop before you dive in"
+            },
+            {
+              "label": "Cozy Fans",
+              "detail": "Meet players who enjoy the calm, no-pressure side of the capybara theme"
+            },
+            {
+              "label": "Boards",
+              "detail": "Share a tidy board or a clever clear with the wider herd"
+            },
+            {
+              "label": "Support",
+              "detail": "Community threads are a friendly place to ask basic sorting questions"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Sort The Capybaras Tips and Tricks",
+          "description": "Ten habits that cut your move count, from keeping a pen empty to digging out buried capybaras before you sort.",
+          "href": "/guide/sort-the-capybaras-tips",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Empty Pen",
+              "detail": "Keep at least one pond empty so any color has somewhere to go"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Dig Early",
+              "detail": "Expose buried capybaras first so you can plan around hidden information"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Crowded",
+              "detail": "Attack the fullest pond first because it has the least flexibility"
+            },
+            {
+              "label": "One Push",
+              "detail": "Finish a pond completely instead of making partial progress on three"
+            },
+            {
+              "label": "Count",
+              "detail": "Track how many color groups remain to know how many empty pens you need"
+            },
+            {
+              "label": "Two Ahead",
+              "detail": "Ask what your next move will be before you commit the current one"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Sort The Capybaras Challenges Guide",
+          "description": "Break down the toughest Sort The Capybaras boards, from locked and frozen slots to tight move budgets and crowded pens.",
+          "href": "/mechanics/sort-the-capybaras-challenges",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Locked",
+              "detail": "Frozen or blocked slots must be cleared before they will accept a capybara"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Move Limit",
+              "detail": "Tight move budgets punish separation moves, so group instead of splitting"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Capacity",
+              "detail": "Every pen holds a set number, so overflowing a stack is never allowed"
+            },
+            {
+              "label": "Top Only",
+              "detail": "You can only move the capybara on top, so order matters as much as color"
+            },
+            {
+              "label": "Booster",
+              "detail": "Save shuffle and undo boosters for boards that have eaten several tries"
+            },
+            {
+              "label": "Restart",
+              "detail": "Ten seconds of restarting beats five minutes of unwinnable shuffling"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Sort The Capybaras Controls Guide",
+          "description": "Learn the select, move, and drop inputs for Sort The Capybaras on desktop, mobile, and gamepad.",
+          "href": "/controls/sort-the-capybaras-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Click",
+              "detail": "Select a capybara with a left click on desktop"
+            },
+            {
+              "label": "Drag",
+              "detail": "Hold the left button and drag the capybara to its matching pen"
+            },
+            {
+              "label": "Arrows",
+              "detail": "Use the arrow keys to move a selected capybara without a mouse"
+            },
+            {
+              "label": "Enter",
+              "detail": "Confirm a move with Enter or a left click"
+            },
+            {
+              "label": "Esc",
+              "detail": "Cancel or undo the current selection with Esc or a right click"
+            },
+            {
+              "label": "Tap",
+              "detail": "On mobile, tap a capybara then tap its destination for accurate placement"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Sort The Capybaras News and Updates",
+          "description": "Track Sort The Capybaras release news, demo availability, and Steam page details in one place.",
+          "href": "/features/sort-the-capybaras-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "Follow the launch window and how cozy puzzle dates usually roll out"
+            },
+            {
+              "label": "Demo",
+              "detail": "Try the free demo to see if the sorting loop fits your play style"
+            },
+            {
+              "label": "Steam",
+              "detail": "Wishlist the Steam page to catch patch notes and platform details"
+            },
+            {
+              "label": "Music",
+              "detail": "Check whether the soundtrack ships as a standalone or deluxe add-on"
+            },
+            {
+              "label": "Platforms",
+              "detail": "Mobile builds often arrive first, with PC and console following"
+            },
+            {
+              "label": "Wishlist",
+              "detail": "Turn on store notifications so you hear about launch day first"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Sort The Capybaras FAQ",
+      "description": "Quick answers to the most common questions about Sort The Capybaras.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Sort The Capybaras?",
+          "answer": "Sort The Capybaras is a cozy sorting puzzle game. Capybaras arrive in stacked pens with different colors, patterns, and accessories, and you move them into matching groups until every pen holds a single type."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you play Sort The Capybaras?",
+          "answer": "You can only pick up the capybara sitting on top of a stack, and it can only land on a matching capybara or an empty pen. Clear every container by grouping identical capybaras together and the board is solved."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What should I buy first in the Sort The Capybaras store?",
+          "answer": "Extra holding slots come first because they are permanent and make every future board more forgiving. Undo, shuffle, and extra-move power-ups are worth saving for levels that have beaten you several times."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does Sort The Capybaras have multiplayer?",
+          "answer": "Sort The Capybaras is built as a single-player puzzle experience. The community side lives on Discord and Reddit, where players compare sorting routes and share board screenshots."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which platforms can I play Sort The Capybaras on?",
+          "answer": "Sort The Capybaras has a Steam page, and cozy sorting games in this genre usually launch on mobile and desktop. Check the official store listing for the exact platforms in your region."
+        },
+        {
+          "question": "Is Sort The Capybaras hard for a beginner?",
+          "answer": "No. The opening levels work as tutorials, and the core rule takes about a minute to learn. The challenge builds later, when empty pens get scarce and buried capybaras force you to plan several moves ahead."
         }
       ]
     },
