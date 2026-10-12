@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Sort The Capybaras Wiki",
+    "shortName": "Sort The Capybaras",
+    "tagline": "Sorting Guides, Tips & Capybara Collection",
+    "description": "Complete Sort The Capybaras Wiki with level guides, puzzle solutions, gameplay tips, capybara information, and everything players need to master the sorting challenges.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,22 +26,22 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Sort The Capybaras Wiki - Guides, Levels & Tips",
+      "description": "Complete Sort The Capybaras Wiki with level guides, puzzle solutions, gameplay tips, capybara information, and everything players need to master the sorting challenges."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Cute Sorting Puzzle Game",
+      "title": "Sort The Capybaras Wiki",
+      "description": "Sort The Capybaras is a relaxing puzzle game where players organize adorable capybaras through colorful sorting challenges, solving levels with strategy and timing.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "All Levels",
+        "Sorting Tips",
+        "Capybara Collection",
+        "Weekly Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
+      "secondaryCta": "Gameplay Tips",
+      "tertiaryCta": "Steam Page",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Sort The Capybaras?",
+      "description": "From your first sorting challenge to a fully organized capybara collection, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Sort The Capybaras Wiki",
+    "about": "Sort The Capybaras Wiki is an independent fan-built guide hub covering sorting strategies, level walkthroughs, upgrades, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Sort The Capybaras Wiki. Not affiliated with Red Panda Studio or Steam.",
+    "description": "Relaxing capybara sorting puzzle game. Organize cute capybaras through colorful levels.",
+    "playGame": "Play Sort The Capybaras on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Official X (Twitter)",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",

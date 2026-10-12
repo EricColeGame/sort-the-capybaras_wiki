@@ -29,7 +29,10 @@ export const siteConfig: SiteConfig = {
   gameUrl: "https://store.steampowered.com/app/5130480/Sort_The_Capybaras/",
   heroVideoId: "t2H6Z_MTaxU", // Sort The Capybaras full gameplay walkthrough
   social: {
+    discord: "https://discord.gg/mtCHqd9gr",
     youtube: "https://www.youtube.com/@RedPandaStudio-c2w",
+    twitter: "https://x.com/Red_PandaStudio",
+    tiktok: "https://www.tiktok.com/@redpandagamestudio",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
