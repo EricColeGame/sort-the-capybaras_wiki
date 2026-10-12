@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Sort The Capybaras Wiki",
+  shortName: "Sort The Capybaras",
+  logoText: "S",
+  tagline: "Sorting Guides, Tips & Capybara Collection",
+  description: "Complete Sort The Capybaras Wiki with level guides, puzzle solutions, gameplay tips, capybara information, and everything players need to master the sorting challenges.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://sort-the-capybaras.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://sort-the-capybaras.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/5130480/Sort_The_Capybaras/",
+  heroVideoId: "t2H6Z_MTaxU", // Sort The Capybaras full gameplay walkthrough
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/@RedPandaStudio-c2w",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
