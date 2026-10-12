@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     twitter: "https://x.com/Red_PandaStudio",
     tiktok: "https://www.tiktok.com/@redpandagamestudio",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "ko", "es"],
   defaultLocale: "en",
 };
